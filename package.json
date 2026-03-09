@@ -9,7 +9,8 @@
     "lint": "next lint",
     "fix": "next lint --fix",
     "eslint-fix": "eslint . --fix",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "vercel-build": "npm install --legacy-peer-deps && npm run build"
   },
   "dependencies": {
     "@floating-ui/react": "^0.26.2",
