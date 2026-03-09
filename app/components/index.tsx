@@ -501,6 +501,8 @@ const TextGeneration = () => {
             items={[
               { id: 'create', name: t('app.generation.tabs.create') },
               { id: 'batch', name: t('app.generation.tabs.batch') },
+              { id: 'batch1', name: t('app.generation.tabs.batch1') },
+              { id: 'batch2', name: t('app.generation.tabs.batch2') },
             ]}
             value={currTab}
             onChange={setCurrTab}

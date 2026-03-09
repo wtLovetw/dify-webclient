@@ -9,6 +9,8 @@ const translation = {
     tabs: {
       create: '运行一次',
       batch: '批量运行',
+      batch1: '批量运行1',
+      batch2: '批量运行2',
       saved: '已保存',
     },
     queryTitle: '查询内容',
