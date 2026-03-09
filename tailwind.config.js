@@ -5,7 +5,7 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    typography: require('./typography'),
+    // typography: require('./typography'),
     extend: {
       colors: {
         gray: {
